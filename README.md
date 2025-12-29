@@ -33,11 +33,11 @@ The project uses **synthetic data** generated for analysis:
 
 ## Key Visualizations
 
-![Revenue by Segment](images/revenue_by_segment.png)  
-![Top Products](images/top_products.png)  
-![Marketing ROI](images/marketing_roi.png)  
-![Page Views](images/page_views.png)  
-![Session Duration](images/session_duration.png)  
+![Revenue by Segment](revenue_by_segment.png)  
+![Top Products](top_products.png)  
+![Marketing ROI](marketing_roi.png)  
+![Page Views](page_views.png)  
+![Session Duration](session_duration.png)  
 
 ---
 
@@ -56,5 +56,6 @@ The project uses **synthetic data** generated for analysis:
 ---
 
 ## Optional Enhancements
-- Include screenshots of plots in the `images/` folder (already added)  
+- Include screenshots of plots in the repo (already added)  
 - Tag the project with topics: Python, Pandas, Plotly, Data Analysis, Marketplace, Portfolio
+
