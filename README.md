@@ -7,7 +7,7 @@ A data-driven analysis of an online marketplace to understand revenue trends, us
 ## 📌 Business Problem
 An online marketplace wants to better understand its performance across users, products, and marketing campaigns.
 
-Key questions:
+**Key questions:**
 - Which products and categories drive the most revenue?
 - Which user segments are most valuable?
 - Are marketing campaigns delivering positive ROI?
@@ -53,7 +53,6 @@ Synthetic dataset simulating real-world marketplace operations:
 ---
 
 ## 📈 Key Insights
-
 - A small number of products contribute to a large share of total revenue  
 - Certain user segments show higher engagement and spending behavior  
 - Marketing ROI varies significantly across channels  
@@ -63,7 +62,6 @@ Synthetic dataset simulating real-world marketplace operations:
 ---
 
 ## 🚀 Business Recommendations
-
 - 📌 Focus marketing spend on high-ROI campaigns  
 - 📈 Promote top-performing products to maximize revenue  
 - 🎯 Target high-value user segments with personalized strategies  
